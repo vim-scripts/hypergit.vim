@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2954
+
+* hypergit plugin provides a tree menu just like NERD_Tree, you can execute
+git command very easily. you can expand, collpase, execute on each node.
+
+* it also provides a bunch of commands and key mapping, 
+
+* support editing of `git rebase -i [branch]`
+
+* status buffer to edit/commit/delete/add files.
+
+Please see:  http://github.com/c9s/hypergit.vim
